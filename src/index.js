@@ -1,5 +1,5 @@
 /** GENERAL FEEDBACK:
- *
+ * Great job getting all test cases to pass! I love the comments because they serve as documentation! 
  */
 
 const handleSubmit = (event) => {
